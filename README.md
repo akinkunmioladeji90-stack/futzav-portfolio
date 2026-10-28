@@ -13,3 +13,5 @@ A website URL points to the published site. It does not include the editable pro
 To create a repository with the actual website code, open the Futzav project in Lovable and connect it to GitHub from **Project settings → Git**. You can also download the codebase from Lovable, if that option is available, and upload those project files to GitHub.
 
 For current steps, see [Lovable’s GitHub sync guide](https://docs.lovable.dev/integrations/github).
+
+
